@@ -12,3 +12,10 @@ C:\Users\bit\Source\Repos\test123\test_console\test_console\obj\Debug\test_conso
 C:\Users\bit\Source\Repos\test123\test_console\test_console\obj\Debug\test_console.csproj.CoreCompileInputs.cache
 C:\Users\bit\Source\Repos\test123\test_console\test_console\obj\Debug\test_console.exe
 C:\Users\bit\Source\Repos\test123\test_console\test_console\obj\Debug\test_console.pdb
+C:\Users\User\Desktop\Temp\test_console\test_console\bin\Debug\test_console.exe.config
+C:\Users\User\Desktop\Temp\test_console\test_console\bin\Debug\test_console.exe
+C:\Users\User\Desktop\Temp\test_console\test_console\bin\Debug\test_console.pdb
+C:\Users\User\Desktop\Temp\test_console\test_console\obj\Debug\test_console.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Temp\test_console\test_console\obj\Debug\test_console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Temp\test_console\test_console\obj\Debug\test_console.exe
+C:\Users\User\Desktop\Temp\test_console\test_console\obj\Debug\test_console.pdb
