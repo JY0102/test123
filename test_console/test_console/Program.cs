@@ -17,6 +17,7 @@ namespace test_console
         private static void HelloWorld()
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Test");
         }
     }
 }
