@@ -16,7 +16,7 @@ namespace test_console
 
         private static void HelloWorld()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Hello World!");
         }
     }
 }
